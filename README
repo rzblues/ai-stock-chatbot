@@ -1,0 +1,5 @@
+This is a wechat stockchatbot using stock inquiry api and wxpy
+This project is completed under the instruction of Professor Zhang Fan and three other fellow classmates
+To run,in command line, type
+python WeChatStockChatbot.py
+Thank you
