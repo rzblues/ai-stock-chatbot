@@ -1,0 +1,70 @@
+## intent:greet
+- hey
+- hello
+- hi
+- good morning
+- good evening
+- hey there
+- how are you
+- how are u
+- what's up
+- wassup
+- how's it going
+- what's popping
+- what's good
+- how are we doing today
+- what can you do for me?
+
+## intent:stock_search
+- [AAPL](company)
+- Show me [AAPL](company)
+- Show me [TSLA](company)
+- [stock price](price)
+- [the price](price)
+- [price of it](price)
+- [price](price)
+- [volume](volume)
+- umm,[the trading volume](volume)
+- [volume](volume) please
+- i'm looking for a stock
+- i'm looking for a company
+- I'm looking for [google's](company) [market volume](volume)
+- I want to search for a stock
+- I want to search for a company
+- I am searching for a stock
+- I am searching for a company
+- i'm looking for a stock‘s [share price](price)
+- show me [tesla](company) [value](price)
+- show me [coca cola's](company) [price](price) [in the morning](time)
+- show me [starbucks](company) [market price](price) at [7:00](time)
+- show me [sodexo's](company) [price](price) [today](time)
+- tell me [J.P Morgan](company) [value](price)
+- tell me [facebook's](company) [price](price) [at night](time)
+- tell me [Mitsubishi](company) [market price](price) at [5:34](time)
+- tell me [Alibaba's](company) [price](price) [yesterday](time)
+- i am looking for [gap's](company) 
+- let's see some [apple](company) [price](price)
+- let's see some [AAPL](company)
+- search for stocks
+- anything about [wawa](company)
+- I wanna know the [market price](price) and [volume](volume) of [tencent](company)
+- tell me [how much](price) is [costa](company) [today](time)
+- can you tell me [how much amount](volume) is [Amazon](company) [yesterday](time)
+- what's the [trading amount](volume) of [turkeyhill](company) [at noon](time)?
+- what's the [trading volume](volume) of [Nike](company) [ten o'clock](time)?
+
+## intent:thankyou
+- thanks!
+- thank you
+- thx
+- thanks very much
+- great!
+- awesome, thank you
+- got you! Thanks
+- alright
+- hurray
+- good night thanks
+- nice 
+- nice job
+- hahaha thank you
+- xiexie
